@@ -1,0 +1,1 @@
+- Discussion about missing values, columns to drop and sensitivity of the model to that
